@@ -1,6 +1,6 @@
 # [Google IT Support Professional Certificate](https://www.coursera.org/professional-certificates/google-it-support)
 
-![cert](https://github.com/elmoallistair/Google-IT-Support/blob/master/Coursera%20XWUTY7FMHLAR.jpg)
+![cert](https://github.com/TazelHossan/Google-IT-Support-Specialization/blob/master/Professional%20Certificate/Professional%20Certificate.pdf)
 > All copyrighted materials belong to Coursera, this repository created for reference purpose.
 
 <br>
